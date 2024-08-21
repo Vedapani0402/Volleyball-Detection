@@ -19,3 +19,6 @@ For Feature Extractor, InceptionV3 is used and for Recurrent Model, a custom GRU
 
 Finally, to view this, an interface is made with Streamlit.
 
+
+NOTE : The best.pt weight file and the Video Classifier weight files are not uploaded in the repository. Remember that, for inference, those weight files were used.
+       for Video Classifier, 3 files are required (checkpoint, video-classifier.index and video-classifier.data-***) for inference.
